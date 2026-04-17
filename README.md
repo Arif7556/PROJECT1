@@ -1,4 +1,0 @@
-# PROJECT1
-LCD INTERFACING
-sbit led1=P1^1;//PIN CONNECT TO P1.1
-sbit led2=P1^2;//P1.2
